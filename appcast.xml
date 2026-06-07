@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" ?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>menyew</title>
     <description>menyew updates</description>
     <language>en</language>
+    <item>
+      <title>1.0.1</title>
+      <pubDate>Sat, 06 Jun 2026 19:54:32 -0500</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/ConceptHouse/menyew-releases/releases/tag/v1.0.1</link>
+      <enclosure url="https://github.com/ConceptHouse/menyew-releases/releases/download/v1.0.1/menyew-1.0.1.zip" type="application/octet-stream" length="4573002" sparkle:edSignature="/KD81G1lQovIUm4NJPLNDhM4h7tAS80z56ywN7AT/IWt1wcD+agf2MZCwV9926zv2yh7r5ItHn0w+y6bKKeWBg=="/>
+    </item>
   </channel>
 </rss>
