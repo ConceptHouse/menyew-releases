@@ -8,6 +8,8 @@
 
 Network · CPU · GPU · Memory · Claude &amp; Codex usage — all in the menu bar.
 
+<img src="assets/menubar.png" width="480" alt="MenYew monitors in the macOS menu bar: Claude/Codex meters, memory, GPU, per-core CPU, and a live network graph">
+
 ### [⬇︎ Download the latest release](https://github.com/ConceptHouse/menyew-releases/releases/latest)
 
 *Universal build — Apple silicon &amp; Intel · macOS 13 (Ventura) or later · signed &amp; notarized by Apple*
