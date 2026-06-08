@@ -5,6 +5,15 @@
     <description>menyew updates</description>
     <language>en</language>
     <item>
+      <title>1.0.3</title>
+      <pubDate>Mon, 08 Jun 2026 12:59:27 -0500</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/ConceptHouse/menyew-releases/releases/tag/v1.0.3</link>
+      <enclosure url="https://github.com/ConceptHouse/menyew-releases/releases/download/v1.0.3/menyew-1.0.3.zip" type="application/octet-stream" length="5286638" sparkle:edSignature="ce7f8zGNc7weAC6xypOrhpxz7BoyQOisy8zVS6aW47oQgPV+B6hc3khukNhQ+WeENdQq3V0kRuuKcdoreyLoAA=="/>
+    </item>
+    <item>
       <title>1.0.2</title>
       <pubDate>Mon, 08 Jun 2026 10:37:04 -0500</pubDate>
       <sparkle:version>3</sparkle:version>
